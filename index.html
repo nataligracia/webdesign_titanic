@@ -5,15 +5,130 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Web Design: Titanic Visualization</title>
-  <link rel="stylesheet" href="bootstrap.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+  integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-<h1>TEST TEST test</h1>
+  <div>
+    <div class="row">
+      <div class="col col-6 homebtn">
+        <a href="index.html">Titanic Passenger & Crew Analysis</a>
+      </div>
+      <div class="col col-6 menubuttons divtop">
+
+        <nav class="navbar navbar-expand-md navbar-light">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03"
+            aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul class="navbar-nav">
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                  aria-haspopup="true" aria-expanded="false">
+                  Survial Plots by Demographic:
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <a class="dropdown-item" href="Age.html">Age</a>
+                  <a class="dropdown-item" href="Gender.html">Gender</a>
+                  <a class="dropdown-item" href="Nationality.html">Nationality</a>
+                  <a class="dropdown-item" href="BoardedCity.html">Boarded City</a>
+                  <a class="dropdown-item" href="PersonType.html">Person Type</a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Comparison.html">Comparison</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="Data.html">Data</a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+
+
+      </div>
+    </div>
+  </div>
+
+  <!-- Start Container-->
+  <div class="container">
+
+    <br>
+
+    <!-- Start Rows-->
+    <div class="row">
+
+      <!-- Start Left Side Columns-->
+      <div class="col col-12 col-md-8 divbdy">
+        <br>
+        <h1>Summary: Survival by Person Type</h1>
+        <hr>
+        <img src="WebVisualizations/Visualizations/persontype_barh_plot.png" alt="Survival by Person Type" width="580" align="left">
+        <p>The titanic.....age 
+        </p>
+        <p>Throughout this analysis we'll...
+        </p>
+        <hr>
+      </div>
+      <!-- End Left Side Columns -->
+
+      <!-- Start Right Side Columns-->
+      <div class="col col-12 col-md-4 divbdy">
+        <br>
+        <h2>Visualizations</h2>
+        <hr>
+
+        <!-- Start of Visualizations Box-->
+        <div class='row'>
+          <div class="col col-3 col-md-6">
+            <a href="PersonType.html"><img src="WebVisualizations/Visualizations/persontype_barh_plot.png" alt="Survival by Person Type"></a>
+          </div>
+          <div class="col col-3 col-md-6">
+            <a href="BoardedCity.html"><img src="WebVisualizations/Visualizations/boardedcity_area_plot.png" alt="Survival by Boarded City"></a>
+          </div>
+          <div class="col col-3 col-md-6">
+            <a href="Age.html"><img src="WebVisualizations/Visualizations/age_line_plot.png" alt="Survival by Age" id="imgsel"></a>
+          </div>
+          <div class="col col-3 col-md-6">
+            <a href="Gender.html"><img src="WebVisualizations/Visualizations/gender_pie_subplots.png" alt="Survival by Gender"></a>
+          </div>
+          <div class="col col-3 col-md-6">
+            <a href="Nationality.html"><img src="WebVisualizations/Visualizations/nationality_bar_plot.png" alt="Survival by Nationality"></a>
+          </div>
+        </div>
+        <!-- End of Visualizations Box-->
+
+      </div>
+      <!-- End Right Side Columns-->
+
+    </div>
+    <!-- End Rows-->
+
+  </div>
+  <!-- End Container-->
+
+  <br>
+
+  <!-- Start of Footer -->
+  <div>
+    <div class="row">
+      <div class="col col-12 divbtm">© Copyright Natali Gracia 2021</div>
+    </div>
+  </div>
+  <!-- End of Footer -->
+
 </body>
 </html>
-
-
-<!-- sources
-https://www.kaggle.com/c/titanic/overview
-  https://web.stanford.edu/class/archive/cs/cs109/cs109.1166/problem12.html
- -->
