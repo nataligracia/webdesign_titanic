@@ -1,104 +1,117 @@
-img {
-    max-width: 100%;
-  }
-  
-  #imgsel{
-    border: lightseagreen 2px solid;
-  }
-  
-  h1, h2, h3{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: lightseagreen;
-  }
-  
-  h1{
-    font-size: 24px;
-    font-weight: bold;
-    text-align:left;
-  }
-  
-  h2{
-    font-size: 22px;
-    font-weight: bold;
-    text-align:left;
-  }
-  
-  h3{
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-  }
-  
-  p{
-    color: gray;
-    text-align:left;
-  }
-  
-  .navbar{
-      position: absolute;
-      right: 30px;
-  }
-  
-  .navbar a{
-    background-color:white;
-  }
-  
-  body {
+/* */
+
+/* Format Wed Page Body */
+body {
     width: 100%;
-    min-height:100%;
-    background-color: lightgray;
-  }
-  
-  .col {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: lightgrey;
+}
+
+/* Format Columns */
+.col {
     width: 100%;
     /* border: black 1px solid; */
     /* Font color */
-    /* color:blue;  */
-  } 
-  
-  .homebtn{
+}
+
+/* Format Web Page Home*/
+.header{
     background-color: white;
     z-index:2;
-  }
-  
-  .homebtn a{
-    width: 110px;
+}
+
+/* Format Title "Titanic Passenger & Crew Analysis */
+.header a{
     background: lightseagreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
     color: white;
     text-align: center;
     display: block;
-    padding: 14px;
+    padding: 14px 0;
     margin: 0px 0px 0px 40px;
-  }
-  
-  .divtop{
+}
+
+/* Format Navigation Bar Functions*/
+.menu{
     background-color: white;
     z-index:2;
-  }
-  
-  .divbdy{
+}
+
+/* Position Navigation Bar "Demo Plots, Comparison, and Data" */
+.navbar{
+    position: absolute;
+    right: 30px;
+}
+
+/* Format Navigation Bar Drop Down Button */
+.navbar a{
+    background-color:white;
+}
+
+/* Format Home Body */
+.content{
     background-color: white;
     z-index:1;
-  }
+}
+
+/* Add Space after Image */
+.content-img{
+    margin-bottom: 2%;
+}
+
+/* Assign Header Formats */
+h1, h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: lightseagreen;
+}
   
-  .divtable{
-    text-align:center;
-    background-color: white;
-    z-index:1;
-  }
+/* Format "Summary: Survival Status by Demographics" */
+h1{
+    font-size: 24px;
+    font-weight: bold;
+    text-align:left;
+}
   
-  .divbtm {
-    width:100%;
-    /* position:absolute; */
+/* Format "Visualizations" */
+h2{
+    font-size: 22px;
+    font-weight: bold;
+    text-align:left;
+}
+
+/* Format Home Columns */
+img {
+    max-width: 100%;
+  }
+
+/* Assign Age Plot ID for Reference on Home/Landing/Summary Page */
+#img-age{
+    border: lightseagreen 2px solid;
+}
+
+/* Format Paragraph Text "Summary description...In April" */
+p{
+    text-indent: 1em;
+    color: gray;
+    text-align:left;
+}
+  
+/* Format Web Page Footer*/
+.footer {
+    width: 100%;
+    position:relative;
     bottom:0;
     background-color: gray;
-    z-index:0;
+    z-index:1;
     font-size: 12px;
     color: white;
     text-align: center;
-    padding: 5px;
-    margin: 0px;
-  }
+    margin: 0;
+    border-top: 3px solid lightseagreen;
+    display:inline;
+    box-sizing:border-box;
+}
