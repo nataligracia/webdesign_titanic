@@ -4,44 +4,57 @@
 <!-- Make HTML English-->
 <html lang="en-us">
 
-  <!-- Start Header-->
+  <!-- Start Set-Up-->
   <head>
 
+    <!--Set Character Encoding-->
     <meta charset="UTF-8">
+
+    <!--Set Page View for Any Device-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--Device and Browser Compatibility-->
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!--Tab Title-->
     <title>Web Design: Titanic Visualization</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-      integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-      crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
-      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
-      crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-      crossorigin="anonymous"></script>
+    
+    <!--Bootstrap CSS-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" 
+      integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    
+    <!--Seperate Popper and Bootstrap JS-->    
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" 
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" 
+      integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+      <!-- <style>.mylink:hover  {
+      background-color: blue;
+    }
+    </style> -->
+
+    <!--Connect CSS file-->
     <link rel="stylesheet" href="style.css">
   </head>
+  <!--End Set-Up-->
 
   <!-- Start Body-->
   <body>
 
     <!--Add Title & Header Section-->
-    <div>
+    <div class="container-fluid">
 
       <!--Add Header-->
       <div class="row">
 
         <!--Add Title & Home Page Content-->
-        <div class="col-md-6 header">
+        <div class="col col-lg-6 header">
           <a href="index.html">Titanic Passenger & Crew Analysis</a>
         </div>
         <!--End Title & Home Page Content-->
 
         <!--Add Menu-->
-        <div class="col-md-6 menubuttons menu">
+        <div class="col col-lg-6 menubuttons menu">
 
           <!--Add Navigation Bar-->
           <nav class="navbar navbar-expand-md navbar-light">
@@ -70,11 +83,11 @@
 
                   <!-- Connect hyperlink group for plot drop down button pptions-->
                   <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" href="Age.html">Age</a>
-                    <a class="dropdown-item" href="Gender.html">Gender</a>
-                    <a class="dropdown-item" href="Nationality.html">Nationality</a>
-                    <a class="dropdown-item" href="BoardedCity.html">Boarded City</a>
-                    <a class="dropdown-item" href="PersonType.html">Person Type</a>
+                    <a class="dropdown-item" href="WebDesign/Age.html">Age</a>
+                    <a class="dropdown-item" href="WebDesign/Gender.html">Gender</a>
+                    <a class="dropdown-item" href="WebDesign/Nationality.html">Nationality</a>
+                    <a class="dropdown-item" href="WebDesign/BoardedCity.html">Boarded City</a>
+                    <a class="dropdown-item" href="WebDesign/PersonType.html">Person Type</a>
                   </div>
                   <!-- Finish hyperlink group of plot drop down button options-->
 
@@ -85,7 +98,7 @@
                 <li class="nav-item">
 
                   <!--Connect hyperlink for Comparisond data-->
-                  <a class="nav-link" href="Comparison.html">Comparison</a>
+                  <a class="nav-link" href="WebDesign/Comparison.html">Comparison</a>
                   <!--Finish hyperlink-->
 
                 </li>
@@ -95,7 +108,7 @@
                 <li class="nav-item">
 
                   <!--Connect hyperlink for Data data-->
-                  <a class="nav-link" href="Data.html">Data</a>
+                  <a class="nav-link" href="WebDesign/Data.html">Data</a>
                   <!--Finish hyperlink-->
 
                 </li>
@@ -166,19 +179,24 @@
           <!-- Start of Visualizations Box-->
           <div class='row'>
             <div class="col col-3 col-lg-6">
-              <a href="Age.html"><img src="WebVisualizations/Data & Images- Results/age_line_plot.png" alt="Survival by Age" id="img-age"></a>
+              <a href="WebDesign/Age.html"><img src="WebVisualizations/Data & Images- Results/age_line_plot.png" alt="Survival by Age" id="img-age"></a>
+              <hr>
             </div>  
             <div class="col col-3 col-lg-6">
-              <a href="Gender.html"><img src="WebVisualizations/Data & Images- Results/gender_pie_subplots.png" alt="Survival by Gender"></a>
+              <a href="WebDesign/Gender.html"><img src="WebVisualizations/Data & Images- Results/gender_pie_subplots.png" alt="Survival by Gender"></a>
+              <hr>
             </div>
             <div class="col col-3 col-lg-6">
-              <a href="Nationality.html"><img src="WebVisualizations/Data & Images- Results/nationality_bar_plot.png" alt="Survival by Nationality"></a>
+              <a href="WebDesign/Nationality.html"><img src="WebVisualizations/Data & Images- Results/nationality_bar_plot.png" alt="Survival by Nationality"></a>
+              <hr>
             </div>
             <div class="col col-3 col-lg-6">
-              <a href="BoardedCity.html"><img src="WebVisualizations/Data & Images- Results/boardedcity_area_plot.png" alt="Survival by Boarded City"></a>
+              <a href="WebDesign/BoardedCity.html"><img src="WebVisualizations/Data & Images- Results/boardedcity_area_plot.png" alt="Survival by Boarded City"></a>
+              <hr>
             </div>
             <div class="col col-3 col-lg-6">
-              <a href="PersonType.html"><img src="WebVisualizations/Data & Images- Results/persontype_barh_plot.png" alt="Survival by Person Type"></a>
+              <a href="WebDesign/PersonType.html"><img src="WebVisualizations/Data & Images- Results/persontype_barh_plot.png" alt="Survival by Person Type"></a>
+             <hr>
             </div>
           </div>
           <!-- End of Visualizations Box-->
