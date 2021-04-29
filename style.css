@@ -16,8 +16,6 @@ body {
 /* Format Columns */
 .col {
     width: 100%;
-    /* border: black 1px solid; */
-    /* Font color */
 }
 
 /* Format Web Page Home*/
@@ -35,25 +33,20 @@ body {
     color: white;
     text-align: center;
     display: block;
-    padding: 14px 0;
+    padding: 14px 10px;
     margin: 0px 0px 0px 40px;
 }
-/*  */
+
 /* Format Navigation Bar Functions*/
 .menu{
     background-color: white;
     z-index:2;
 }
 
-/* Position Navigation Bar "Demo Plots, Comparison, and Data" */
+/* Format Nav Bar */
 .navbar{
-    position: absolute;
-    right: 30px;
-}
-
-/* Format Navigation Bar Drop Down Button */
-.navbar a{
-    background-color:white;
+    padding-bottom:0;
+    padding-top:0;
 }
 
 /* Format Home Body */
@@ -93,7 +86,7 @@ img {
   }
 
 /* Assign Age Plot ID for Reference on Home/Landing/Summary Page */
-#img-age{
+#page-img{
     border: lightseagreen 2px solid;
 }
 
@@ -118,4 +111,54 @@ p{
     border-top: 3px solid lightseagreen;
     display:inline;
     box-sizing:border-box;
+    height: 50%;
+    padding: .75% 0;
 }
+#small {
+    display:none;
+}
+
+/* Change the color in the stroke property of the image data */ 
+.navbar-light .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28128, 128, 128, 1.0%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+    }  
+
+
+/* Formats when screen is small */
+@media only screen and (max-width: 768px) {
+    .first-row {
+      background-color: lightseagreen;
+    }
+    .menu {
+        padding: 0;
+    }
+    .header a{
+        padding: 14px;
+        margin: 0px 0px 0px 0px;
+    }
+    .nav-item {
+        padding: 1.5%;
+    }
+    body {
+        background-color: white;
+    }
+    #small {
+        display: block;
+        margin-bottom:0;
+    }
+    #space {
+        display: none;
+    }
+    .navbar-light .navbar-toggler {
+        border-color: white;
+    }
+    .move {
+        margin-right: 1.5%
+    }
+}
+
+/* Format click color */
+.click:hover {
+    background-color: lightgrey;
+  }
+
