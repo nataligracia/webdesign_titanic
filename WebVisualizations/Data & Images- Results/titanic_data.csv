@@ -68,7 +68,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 67,"ANDREWS, Miss Cornelia Theodosia",62,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
 68,"ANDREWS, Mr Archibald",40,Male,Irish,Belfast,Engineering Crew,Engineer,
 69,"ANDREWS, Mr Charles Edward",19,Male,English,Southampton,Victualling Crew,Victualler,SAVED
-70,"ANDREWS, Mr Thomas",39,Male,Irish,Belfast,1st Class Passenger H&W Guarantee Group,1st Class,LOST
+70,"ANDREWS, Mr Thomas",39,Male,Irish,Belfast,1st Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 71,"ANGLE, Mr William",31,Male,English,Southampton,2nd Class Passenger,2nd Class,LOST
 72,"ANGLE, Mrs Florence Agnes",36,Female,English,Southampton,2nd Class Passenger,2nd Class,SAVED
 73,"APPLETON, Mrs Charlotte",53,Female,American,Southampton,1st Class Passenger,1st Class,SAVED
@@ -274,7 +274,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 273,"BRAF, Miss Elin Ester Maria",20,Female,Swedish,Southampton,3rd Class Passenger,3rd Class,LOST
 274,"BRAIDEN, Mr William John",37,Male,Irish,Belfast,Engineering Crew,Engineer,
 275,"BRAILEY, Mr William Theodore Ronald",24,Male,English,Southampton,2nd Class Passenger Musician,Musician,LOST
-276,"BRAND, Mr",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+276,"BRAND, Mr",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 277,"BRANDEIS, Mr Emil Franklin",48,Male,American,Cherbourg,1st Class Passenger,1st Class,LOST
 278,"BRAUND, Mr Lewis Richard",29,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
 279,"BRAUND, Mr Owen Harris",22,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
@@ -309,7 +309,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 308,"BROWN, Mrs Caroline Lane",59,Female,American,Southampton,1st Class Passenger,1st Class,SAVED
 309,"BROWN, Mrs Elizabeth Catherine",39,Female,South African,Southampton,2nd Class Passenger,2nd Class,SAVED
 310,"BROWN, Mrs Margaret",44,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
-311,"BROWNE, Rev. Francis M.",32,Male,Irish,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+311,"BROWNE, Rev. Francis M.",32,Male,Irish,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 312,"BRYAN, Mr John",22,Male,Irish,Belfast,Engineering Crew,Engineer,
 313,"BRYHL, Miss Dagmar Jenny Ingeborg",20,Female,Swedish,Southampton,2nd Class Passenger,2nd Class,SAVED
 314,"BRYHL, Mr Kurt Arnold Gottfrid",25,Male,Swedish,Southampton,2nd Class Passenger,2nd Class,LOST
@@ -357,7 +357,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 356,"CALDWELL, Mrs Sylvia Mae",28,Female,American,Southampton,2nd Class Passenger,2nd Class,SAVED
 357,"CAMERON, Miss Clear Annie",35,Female,English,Southampton,2nd Class Passenger,2nd Class,SAVED
 358,"CAMPBELL, Mr Donald Samuel",28,Male,Australian,Southampton,Victualling Crew,Victualler,LOST
-359,"CAMPBELL, Mr William",20,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,2nd Class,LOST
+359,"CAMPBELL, Mr William",20,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 360,"CANAVAN, Miss Mary",22,Female,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
 361,"CANAVAN, Mr Patrick",21,Male,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
 362,"CANDEE, Mrs Helen Churchill",52,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
@@ -423,7 +423,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 422,"CHEVRé, Mr Paul Romaine Marie Léonce",45,Male,Belgian,Cherbourg,1st Class Passenger,1st Class,SAVED
 423,"CHIBNALL, Mrs Edith Martha Bowerman",48,Female,English,Southampton,1st Class Passenger,1st Class,SAVED
 424,"CHIP, Mr Chang",32,Male,Hong Kongese,Southampton,3rd Class Passenger,3rd Class,SAVED
-425,"CHISHOLM, Mr Roderick",43,Male,Scottish,Belfast,1st Class Passenger H&W Guarantee Group,1st Class,LOST
+425,"CHISHOLM, Mr Roderick",43,Male,Scottish,Belfast,1st Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 426,"CHISNALL, Mr George Alexander",36,Male,English,Belfast,Engineering Crew,Engineer,LOST
 427,"CHITTY, Mr Archibald George",28,Male,English,Southampton,Victualling Crew,Victualler,LOST
 428,"CHITTY, Mr George Henry",50,Male,English,Southampton,Victualling Crew,Victualler,LOST
@@ -460,7 +460,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 459,"COLLEY, Mr Edward Pomeroy",37,Male,Irish,Southampton,1st Class Passenger,1st Class,LOST
 460,"COLLINS, Mr John",17,Male,Irish,Southampton,Victualling Crew,Victualler,SAVED
 461,"COLLINS, Mr John",38,Male,English,Southampton,Engineering Crew,Engineer,SAVED
-462,"COLLIS, Mr",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+462,"COLLIS, Mr",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 463,"COLLYER, Miss Marjorie Lottie",8,Female,English,Southampton,2nd Class Passenger,2nd Class,SAVED
 464,"COLLYER, Mr Harvey",31,Male,English,Southampton,2nd Class Passenger,2nd Class,LOST
 465,"COLLYER, Mrs Charlotte Caroline",30,Female,English,Southampton,2nd Class Passenger,2nd Class,SAVED
@@ -534,7 +534,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 533,"CULLEN, Mr Patrick",36,Male,Irish,Belfast,Engineering Crew,Engineer,
 534,"CUMINGS, Mr John Bradley",39,Male,American,Cherbourg,1st Class Passenger,1st Class,LOST
 535,"CUMINGS, Mrs Florence Briggs",35,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
-536,"CUNNINGHAM, Mr Alfred Fleming",21,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,2nd Class,LOST
+536,"CUNNINGHAM, Mr Alfred Fleming",21,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 537,"CUNNINGHAM, Mr Andrew Orr",38,Male,Scottish,Belfast,Victualling Crew,Victualler,SAVED
 538,"CUNNINGHAM, Mr Bernard",35,Male,English,Southampton,Engineering Crew,Engineer,LOST
 539,"CURRAN, Mr Thomas",41,Male,,Belfast,Engineering Crew,Engineer,
@@ -555,12 +555,12 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 554,"DAVIDSON, Mr Thornton",31,Male,Canadian,Cherbourg,1st Class Passenger,1st Class,LOST
 555,"DAVIDSON, Mrs Orian",27,Female,Canadian,Cherbourg,1st Class Passenger,1st Class,SAVED
 556,"DAVIES, Master John Morgan jr",8,Male,English,Southampton,2nd Class Passenger,2nd Class,SAVED
-557,"DAVIES, Miss K.",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+557,"DAVIES, Miss K.",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 558,"DAVIES, Mr Alfred James",24,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
 559,"DAVIES, Mr Charles Henry",19,Male,English,Southampton,2nd Class Passenger,2nd Class,LOST
 560,"DAVIES, Mr Evan Lewis",22,Male,Welsh,Southampton,3rd Class Passenger,3rd Class,LOST
 561,"DAVIES, Mr Gordon Raleigh",32,Male,English,Belfast,Victualling Crew,Victualler,LOST
-562,"DAVIES, Mr H. V.",,Male,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+562,"DAVIES, Mr H. V.",,Male,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 563,"DAVIES, Mr John",22,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
 564,"DAVIES, Mr Joseph",17,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
 565,"DAVIES, Mr Robert J.",26,Male,Welsh,Belfast,Victualling Crew,Victualler,LOST
@@ -571,10 +571,10 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 570,"DAVIS, Mr Stephen James",39,Male,English,Southampton,Deck Crew,Deck Crew,LOST
 571,"DAVISON, Mr Thomas Henry",32,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
 572,"DAVISON, Mrs Mary Elizabeth",34,Female,English,Southampton,3rd Class Passenger,3rd Class,SAVED
-573,"DAWES, Mr W. W.",38,Male,English,Southampton,Victualling Crew Discharged Crew,Victualler,
+573,"DAWES, Mr W. W.",38,Male,English,Southampton,Victualling Crew Discharged Crew,Not Onboard,
 574,"DAWKINS, Mr P.",24,Male,English,Southampton,Victualling Crew Failed to Join Ship,Not Onboard,
 575,"DAWSON, Mr Joseph",23,Male,Irish,Southampton,Engineering Crew,Engineer,LOST
-576,"DE GRASSE, Mr J.",,Male,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+576,"DE GRASSE, Mr J.",,Male,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 577,"DE MARSICO, Sig. Govanni",20,Male,Italian,Southampton,Restaurant Staff,Restaurant Staff,LOST
 578,"DE MESSEMAEKER, Mr Guillaume Joseph",36,Male,Belgian,Southampton,3rd Class Passenger,3rd Class,SAVED
 579,"DE MESSEMAEKER, Mrs Anna",36,Female,Belgian,Southampton,3rd Class Passenger,3rd Class,SAVED
@@ -658,8 +658,8 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 657,"DURáN I MONé, Miss Asuncion",27,Female,Spanish,Cherbourg,2nd Class Passenger,2nd Class,SAVED
 658,"DURáN I MONé, Miss Florentina",30,Female,Spanish,Cherbourg,2nd Class Passenger,2nd Class,SAVED
 659,"DWAN, Mr Frank",65,Male,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
-660,"DYER EDWARDES, Mr Thomas",65,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-661,"DYER EDWARDES, Mrs Clementina Georgina Lucy Drummond",53,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+660,"DYER EDWARDES, Mr Thomas",65,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+661,"DYER EDWARDES, Mrs Clementina Georgina Lucy Drummond",53,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 662,"DYER, Mr Henry Ryland",24,Male,English,Belfast,Engineering Crew,Engineer,LOST
 663,"DYER, Mr William Henry",33,Male,English,Southampton,Victualling Crew,Victualler,LOST
 664,"DYKER, Mr Adolf Fredrik",23,Male,"Swedish, American",Southampton,3rd Class Passenger,3rd Class,LOST
@@ -694,9 +694,9 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 693,"ERVINE, Mr Albert George",18,Male,Irish,Belfast,Engineering Crew,Engineer,LOST
 694,"ESTANISLAU, Mr Manuel Gonçalves",37,Male,"Madeiran, Portuguese",Southampton,3rd Class Passenger,3rd Class,LOST
 695,"ETCHES, Mr Henry Samuel",43,Male,English,Belfast,Victualling Crew,Victualler,SAVED
-696,"ETTLINGER, Mr Peter",31,Male,German,Southampton,Victualling Crew Discharged Crew,Victualler,
+696,"ETTLINGER, Mr Peter",31,Male,German,Southampton,Victualling Crew Discharged Crew,Not Onboard,
 697,"EUSTIS, Miss Elizabeth Mussey",54,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
-698,"EVANS, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+698,"EVANS, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 699,"EVANS, Miss Edith Corse",36,Female,American,Cherbourg,1st Class Passenger,1st Class,LOST
 700,"EVANS, Mr Alfred Frank",25,Male,English,Southampton,Deck Crew,Deck Crew,SAVED
 701,"EVANS, Mr Frank Oliver",27,Male,English,Southampton,Deck Crew,Deck Crew,SAVED
@@ -738,7 +738,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 737,"FLEMING, Miss Honor",22,Female,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
 738,"FLEMING, Miss Margaret",42,Female,American,Cherbourg,1st Class Passenger Servant,Servant,SAVED
 739,"FLEMING, Mr William",35,Male,Irish,Belfast,Engineering Crew,Engineer,
-740,"FLETCHER, Miss N.",,Female,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+740,"FLETCHER, Miss N.",,Female,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 741,"FLETCHER, Mr Percy William",25,Male,English,Belfast,Victualling Crew,Victualler,LOST
 742,"FLETCHER, Mr Robert",39,Male,Irish,Belfast,Engineering Crew,Engineer,
 743,"FLYNN, Mr James",28,Male,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
@@ -761,8 +761,8 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 760,"FORD, Mr William Neal Thomas",14,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
 761,"FORD, Mrs Margaret Ann Watson",54,Female,Scottish,Southampton,3rd Class Passenger,3rd Class,LOST
 762,"FOREMAN, Mr Benjamin Laventall",30,Male,American,Southampton,1st Class Passenger,1st Class,LOST
-763,"FORMAN, Mr J.",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-764,"FORMAN, Mrs",,Female,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+763,"FORMAN, Mr J.",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+764,"FORMAN, Mrs",,Female,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 765,"FORTUNE, Miss Alice Elizabeth",24,Female,Canadian,Southampton,1st Class Passenger,1st Class,SAVED
 766,"FORTUNE, Miss Ethel Flora",28,Female,Canadian,Southampton,1st Class Passenger,1st Class,SAVED
 767,"FORTUNE, Miss Mabel Helen",23,Female,Canadian,Southampton,1st Class Passenger,1st Class,SAVED
@@ -784,7 +784,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 783,"FRAUENTHAL, Mrs Clara",42,Female,American,Southampton,1st Class Passenger,1st Class,SAVED
 784,"FREDERICKS, Mr Walter Francis",21,Male,English,Southampton,Engineering Crew,Engineer,SAVED
 785,"FREEMAN, Mr Ernest Edward Samuel",45,Male,English,Belfast,Victualling Crew,Victualler,LOST
-786,"FROST, Mr Anthony Wood",38,Male,English,Belfast,2nd Class Passenger H&W Guarantee Group,2nd Class,LOST
+786,"FROST, Mr Anthony Wood",38,Male,English,Belfast,2nd Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 787,"FRY, Mr Richard Thomas",39,Male,English,Southampton,1st Class Passenger Servant,Servant,LOST
 788,"FRYER, Mr Albert Ernest",29,Male,English,Southampton,Engineering Crew,Engineer,SAVED
 789,"FRöLICHER, Miss Hedwig Margaritha",22,Female,Swiss,Cherbourg,1st Class Passenger,1st Class,SAVED
@@ -881,7 +881,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 880,"GUSTAFSSON, Mr Johan Birger",28,Male,Finnish,Southampton,3rd Class Passenger,3rd Class,LOST
 881,"GUSTAFSSON, Mr Karl Gideon",19,Male,Swedish,Southampton,3rd Class Passenger,3rd Class,LOST
 882,"GUY, Mr Elgar John",29,Male,English,Southampton,Victualling Crew,Victualler,SAVED
-883,"GWINN, Mr William Logan",37,Male,American,Southampton,Victualling Crew Postal Clerk,Victualler,LOST
+883,"GWINN, Mr William Logan",37,Male,American,Southampton,Victualling Crew Postal Clerk,Postal Clerk,LOST
 884,"HAAS, Miss Aloisia",24,Female,Swiss,Southampton,3rd Class Passenger,3rd Class,LOST
 885,"HADDOCK, Mr Herbert James",51,Male,English,Belfast,Deck Crew Titanic Officers,Officer,
 886,"HADLEY, Mr John",50,Male,Irish,Belfast,Engineering Crew,Engineer,
@@ -1239,10 +1239,10 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1238,"KLASéN, Mr Klas Albin",18,Male,Swedish,Southampton,3rd Class Passenger,3rd Class,LOST
 1239,"KLASéN, Mrs Hulda Kristina Eugenia",36,Female,Swedish,Southampton,3rd Class Passenger,3rd Class,LOST
 1240,"KLEIN, Mr Herbert",34,Male,English,Southampton,Victualling Crew,Victualler,LOST
-1241,"KNEESE, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+1241,"KNEESE, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 1242,"KNIGHT, Mr George",46,Male,English,Southampton,Victualling Crew,Victualler,SAVED
 1243,"KNIGHT, Mr Leonard George",21,Male,English,Southampton,Victualling Crew,Victualler,LOST
-1244,"KNIGHT, Mr Robert",42,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,2nd Class,LOST
+1244,"KNIGHT, Mr Robert",42,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 1245,"KNOWLES, Mr Thomas",44,Male,English,Southampton,Engineering Crew,Engineer,SAVED
 1246,"KOLEV, Mr Petr",36,Male,Bulgarian,Southampton,3rd Class Passenger,3rd Class,LOST
 1247,"KOLEV, Mr Sotir",24,Male,Bulgarian,Southampton,3rd Class Passenger,3rd Class,LOST
@@ -1292,10 +1292,10 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1291,"LEITCH, Miss Jessie Wills",31,Female,Scottish,Southampton,2nd Class Passenger,2nd Class,SAVED
 1292,"LEMORE, Mrs Amelia",39,Female,English,Southampton,2nd Class Passenger,2nd Class,SAVED
 1293,"LENNON, Mr Denis",20,Male,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
-1294,"LENOX-CONYNGHAM, Master Dennis Hugh",10,Male,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-1295,"LENOX-CONYNGHAM, Miss Eileen",11,Female,Scottish,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-1296,"LENOX-CONYNGHAM, Miss Harriet Alice Katherine",34,Female,Scottish,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-1297,"LENOX-CONYNGHAM, Mrs Barbara Josephine",44,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+1294,"LENOX-CONYNGHAM, Master Dennis Hugh",10,Male,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+1295,"LENOX-CONYNGHAM, Miss Eileen",11,Female,Scottish,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+1296,"LENOX-CONYNGHAM, Miss Harriet Alice Katherine",34,Female,Scottish,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+1297,"LENOX-CONYNGHAM, Mrs Barbara Josephine",44,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 1298,"LEONARD, Mr Matthew",25,Male,"American, Irish",Belfast,Victualling Crew,Victualler,LOST
 1299,"LEROY, Miss Berthe",27,Female,French,Cherbourg,1st Class Passenger Servant,Servant,SAVED
 1300,"LESTER, Mr James",41,Male,English,Southampton,3rd Class Passenger,3rd Class,LOST
@@ -1386,7 +1386,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1385,"MANN, Mr Samuel",40,Male,Irish,Belfast,Engineering Crew,Engineer,
 1386,"MANNION, Miss Margaret",28,Female,Irish,Queenstown,3rd Class Passenger,3rd Class,SAVED
 1387,"MANTLE, Mr Roland Frederick",40,Male,English,Southampton,Victualling Crew,Victualler,LOST
-1388,"MARCH, Mr John Starr",50,Male,American,Southampton,Victualling Crew Postal Clerk,Victualler,LOST
+1388,"MARCH, Mr John Starr",50,Male,American,Southampton,Victualling Crew Postal Clerk,Postal Clerk,LOST
 1389,"MARDIROSIAN, Mr Sarkis",25,Male,"Armenian, American",Cherbourg,3rd Class Passenger,3rd Class,LOST
 1390,"MARETT, Mr George John",26,Male,English,Southampton,Engineering Crew,Engineer,LOST
 1391,"MARINKO, Mr Dmitri",23,Male,"Macedonian, Austrian",Southampton,3rd Class Passenger,3rd Class,LOST
@@ -1418,8 +1418,8 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1417,"MAXWELL, Mr William",39,Male,Irish,Belfast,Engineering Crew,Engineer,
 1418,"MAY, Mr Arthur William",22,Male,English,Southampton,Engineering Crew,Engineer,LOST
 1419,"MAY, Mr Arthur William",59,Male,English,Southampton,Engineering Crew,Engineer,LOST
-1420,"MAY, Mr Richard W.",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-1421,"MAY, Mr Stanley",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+1420,"MAY, Mr Richard W.",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+1421,"MAY, Mr Stanley",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 1422,"MAYBERY, Mr Frank Hubert",36,Male,English,Southampton,2nd Class Passenger,2nd Class,LOST
 1423,"MAYES, Mr William",29,Male,Irish,Belfast,Engineering Crew,Engineer,
 1424,"MAYNARD, Mr Isaac Hiram",31,Male,English,Belfast,Victualling Crew,Victualler,SAVED
@@ -1587,7 +1587,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1586,"MUBāRIK, Mrs Amīnah",25,Female,Syrian,Cherbourg,3rd Class Passenger,3rd Class,SAVED
 1587,"MUDD, Mr Thomas Cupper",16,Male,English,Southampton,2nd Class Passenger,2nd Class,LOST
 1588,"MULHOLLAND, Mr Joseph",28,Male,Irish,Belfast,Engineering Crew,Engineer,
-1589,"MULLEN,",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+1589,"MULLEN,",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 1590,"MULLHOLLAND, Mr Daniel",60,Male,Irish,Belfast,Engineering Crew,Engineer,
 1591,"MULLIN, Miss Kate",21,Female,Irish,Queenstown,3rd Class Passenger,3rd Class,SAVED
 1592,"MULLIN, Miss Mary",18,Female,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
@@ -1641,7 +1641,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1640,"NICHOLS, Mr Albert William Stanley",47,Male,Australian,Belfast,Deck Crew,Deck Crew,LOST
 1641,"NICHOLS, Mr Arthur",45,Male,English,Southampton,Victualling Crew,Victualler,LOST
 1642,"NICHOLS, Mr Walter Henry",35,Male,English,Southampton,Victualling Crew,Victualler,SAVED
-1643,"NICHOLS, Mrs Emily",48,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+1643,"NICHOLS, Mrs Emily",48,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 1644,"NICHOLSON, Mr Arthur Ernest",59,Male,English,Southampton,1st Class Passenger,1st Class,LOST
 1645,"NIEMINEN, Miss Manta Josefina",29,Female,Finnish,Southampton,3rd Class Passenger,3rd Class,LOST
 1646,"NIKLASSON, Mr Samuel",28,Male,Swedish,Southampton,3rd Class Passenger,3rd Class,LOST
@@ -1650,8 +1650,8 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1649,"NILSSON, Mr August Ferdinand",21,Male,Swedish,Southampton,3rd Class Passenger,3rd Class,LOST
 1650,"NISKANEN, Mr Juho",,Male,Finnish,Southampton,3rd Class Passenger,3rd Class,SAVED
 1651,"NIVEN, Mr John Brown",30,Male,Scottish,Southampton,Engineering Crew,Engineer,LOST
-1652,"NOEL, Major Gerard Thomas",55,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-1653,"NOEL, Master William Henry Middleton",13,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+1652,"NOEL, Major Gerard Thomas",55,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+1653,"NOEL, Master William Henry Middleton",13,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 1654,"NOFAL, Mr Mansouer",20,Male,Syrian,Cherbourg,3rd Class Passenger,3rd Class,LOST
 1655,"NOLAN, Mr Michael Bernard",40,Male,Irish,Belfast,Engineering Crew,Engineer,
 1656,"NOON, Mr John Thomas",42,Male,English,Southampton,Engineering Crew,Engineer,LOST
@@ -1681,9 +1681,9 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1680,"O'LEARY, Miss Hanora",16,Female,Irish,Queenstown,3rd Class Passenger,3rd Class,SAVED
 1681,"O'LOUGHLIN, Dr William Francis Norman",63,Male,Irish,Belfast,Deck Crew,Deck Crew,LOST
 1682,"O'SULLIVAN, Miss Bridget Mary",21,Female,Irish,Queenstown,3rd Class Passenger,3rd Class,LOST
-1683,"ODELL, Master Jack",11,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-1684,"ODELL, Miss Kate",,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
-1685,"ODELL, Mrs Lily May",,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+1683,"ODELL, Master Jack",11,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+1684,"ODELL, Miss Kate",,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
+1685,"ODELL, Mrs Lily May",,Female,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 1686,"OLIVA Y OCANA, Doña Fermina",39,Female,Spanish,Cherbourg,1st Class Passenger Servant,Servant,SAVED
 1687,"OLIVE, Mr Charles",31,Male,English,Southampton,Engineering Crew,Engineer,LOST
 1688,"OLIVE, Mr Ernest Roskelly",27,Male,English,Southampton,Victualling Crew,Victualler,LOST
@@ -1702,7 +1702,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1701,"OREšKOVIć, Mr Luka",20,Male,Croatian,Southampton,3rd Class Passenger,3rd Class,LOST
 1702,"ORPET, Mr Walter Hayward",31,Male,English,Southampton,Victualling Crew,Victualler,LOST
 1703,"ORR, Mr James",39,Male,Scottish,Southampton,Victualling Crew,Victualler,LOST
-1704,"OSBORNE, Miss D.",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+1704,"OSBORNE, Miss D.",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 1705,"OSBORNE, Mr William Edward",33,Male,English,Belfast,Victualling Crew,Victualler,LOST
 1706,"OSMAN, Mr Frank",27,Male,English,Southampton,Deck Crew,Deck Crew,SAVED
 1707,"OSMAN, Mrs Mara",31,Female,Croatian,Southampton,3rd Class Passenger,3rd Class,SAVED
@@ -1731,8 +1731,8 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1730,"PANULA, Mr Ernesti Arvid",16,Male,"Finnish,American",Southampton,3rd Class Passenger,3rd Class,LOST
 1731,"PANULA, Mrs Maija Emelia Abrahamintytar",41,Female,Finnish,Southampton,3rd Class Passenger,3rd Class,LOST
 1732,"PARKER, Mr Clifford Richard",17,Male,Channel Islander,Southampton,2nd Class Passenger,2nd Class,LOST
-1733,"PARKES, Mr Francis",21,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,2nd Class,LOST
-1734,"PARR, Mr William Henry Marsh",29,Male,English,Belfast,1st Class Passenger H&W Guarantee Group,1st Class,LOST
+1733,"PARKES, Mr Francis",21,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
+1734,"PARR, Mr William Henry Marsh",29,Male,English,Belfast,1st Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 1735,"PARRISH, Mrs Lutie Davis",59,Female,American,Southampton,2nd Class Passenger,2nd Class,SAVED
 1736,"PARSONS, Mr Edward",37,Male,English,Southampton,Victualling Crew,Victualler,LOST
 1737,"PARSONS, Mr Frank Alfred",26,Male,English,Belfast,Engineering Crew,Engineer,LOST
@@ -1866,7 +1866,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 1865,"REID, Mr James",36,Male,Irish,Belfast,Engineering Crew,Engineer,
 1866,"REID, Mr Robert Thomas",31,Male,English,Southampton,Engineering Crew,Engineer,LOST
 1867,"REKIć, Mr Tido (Ejdo)",38,Male,Bosnian,Southampton,3rd Class Passenger,3rd Class,LOST
-1868,"REMESCH, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+1868,"REMESCH, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 1869,"RENOUF, Mr Peter Henry",33,Male,Channel Islander,Southampton,2nd Class Passenger,2nd Class,LOST
 1870,"RENOUF, Mrs Lillian",30,Female,Channel Islander,Southampton,2nd Class Passenger,2nd Class,SAVED
 1871,"RENTOWL, Mr Philip Charles Thomas",26,Male,English,Southampton,Engineering Crew,Engineer,LOST
@@ -2096,7 +2096,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 2095,"SMITH, Mr James Clinch",56,Male,American,Cherbourg,1st Class Passenger,1st Class,LOST
 2096,"SMITH, Mr James Muil",39,Male,Scottish,Belfast,Engineering Crew,Engineer,LOST
 2097,"SMITH, Mr James William",24,Male,English,Southampton,Victualling Crew,Victualler,LOST
-2098,"SMITH, Mr John Richard Jago",35,Male,English,Southampton,Victualling Crew Postal Clerk,Victualler,LOST
+2098,"SMITH, Mr John Richard Jago",35,Male,English,Southampton,Victualling Crew Postal Clerk,Postal Clerk,LOST
 2099,"SMITH, Mr Joseph",25,Male,Irish,Belfast,Engineering Crew,Engineer,
 2100,"SMITH, Mr Lucian Philip",24,Male,American,Cherbourg,1st Class Passenger,1st Class,LOST
 2101,"SMITH, Mr Reginald George",33,Male,English,Southampton,Victualling Crew,Victualler,LOST
@@ -2139,7 +2139,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 2138,"STENGEL, Mr Charles Emil Henry",54,Male,American,Cherbourg,1st Class Passenger,1st Class,SAVED
 2139,"STENGEL, Mrs Annie May",43,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
 2140,"STEPHENSON, Mrs Martha",52,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
-2141,"STEVENS, Mr George",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+2141,"STEVENS, Mr George",,Male,,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 2142,"STEVENSON, Mr Andrew",28,Male,Irish,Belfast,Engineering Crew,Engineer,
 2143,"STEVENSON, Mr James",46,Male,Irish,Belfast,Engineering Crew,Engineer,
 2144,"STEVENSON, Mr John",49,Male,Irish,Belfast,Engineering Crew,Engineer,
@@ -2226,7 +2226,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 2225,"THOMPSON, Mr Alexander Mellis",36,Male,Scottish,Southampton,3rd Class Passenger,3rd Class,LOST
 2226,"THOMPSON, Mr Herbert Henry",25,Male,English,Belfast,Victualling Crew,Victualler,LOST
 2227,"THOMPSON, Mr John William",41,Male,English,Southampton,Engineering Crew,Engineer,SAVED
-2228,"THOMPSON, Mr Joseph",34,Male,,Belfast,1st Class Passenger H&W Guarantee Group,1st Class,
+2228,"THOMPSON, Mr Joseph",34,Male,,Belfast,1st Class Passenger H&W Guarantee Group,H&W Guarantee Group,
 2229,"THORLEY, Mr William Gordon",41,Male,English,Southampton,Victualling Crew,Victualler,LOST
 2230,"THORN, Mr Harry",25,Male,English,Southampton,Victualling Crew,Victualler,LOST
 2231,"THORNE, Miss Gertrude Maybelle",37,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
@@ -2247,7 +2247,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 2246,"TORFA, Mr Assad",20,Male,Syrian,Cherbourg,3rd Class Passenger,3rd Class,LOST
 2247,"TOSHACK, Mr James Adamson",30,Male,Scottish,Southampton,Victualling Crew,Victualler,LOST
 2248,"TOTEVSKI, Mr Hristo Danchev",25,Male,Bulgarian,Southampton,3rd Class Passenger,3rd Class,LOST
-2249,"TOVEY, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,2nd Class,
+2249,"TOVEY, Miss",,Female,,Southampton,2nd Class Passenger Cross Channel Passenger,Cross Channel,
 2250,"TOZER, Mr James",32,Male,English,Southampton,Engineering Crew,Engineer,LOST
 2251,"TRIGGS, Mr Robert",41,Male,English,Southampton,Engineering Crew,Engineer,SAVED
 2252,"TROUPIANSKY, Mr Moses Aaron",23,Male,Russian,Southampton,2nd Class Passenger,2nd Class,LOST
@@ -2333,7 +2333,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 2332,"WARREN, Mrs Anna Sophia",60,Female,American,Cherbourg,1st Class Passenger,1st Class,SAVED
 2333,"WARWICK, Mr Tom",25,Male,English,Southampton,Victualling Crew,Victualler,LOST
 2334,"WATERIDGE, Mr Edward Lewis",26,Male,English,Southampton,Engineering Crew,Engineer,LOST
-2335,"WATSON, Mr Ennis Hastings",18,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,2nd Class,LOST
+2335,"WATSON, Mr Ennis Hastings",18,Male,Irish,Belfast,2nd Class Passenger H&W Guarantee Group,H&W Guarantee Group,LOST
 2336,"WATSON, Mr William",27,Male,English,Southampton,Engineering Crew,Engineer,LOST
 2337,"WATSON, Mr William Albert",14,Male,English,Southampton,Victualling Crew,Victualler,LOST
 2338,"WATT, Miss Robertha Josephine",12,Female,Scottish,Southampton,2nd Class Passenger,2nd Class,SAVED
@@ -2406,7 +2406,7 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 2405,"WILLIAMS, Mr Richard Norris",21,Male,"Swiss, American",Cherbourg,1st Class Passenger,1st Class,SAVED
 2406,"WILLIAMS, Mr Samuel Solomon",28,Male,English,Southampton,Engineering Crew,Engineer,LOST
 2407,"WILLIAMS, Mr Walter John",28,Male,English,Southampton,Victualling Crew,Victualler,SAVED
-2408,"WILLIAMSON, Mr James Bertram",35,Male,Irish,Southampton,Victualling Crew Postal Clerk,Victualler,LOST
+2408,"WILLIAMSON, Mr James Bertram",35,Male,Irish,Southampton,Victualling Crew Postal Clerk,Postal Clerk,LOST
 2409,"WILLIS, Mr William",59,Male,English,Southampton,Victualling Crew,Victualler,LOST
 2410,"WILLSHER, Mr William Aubrey",33,Male,English,Southampton,Victualling Crew,Victualler,LOST
 2411,"WILSON, Miss Helen Alice",33,Female,Irish,Cherbourg,1st Class Passenger Servant,Servant,SAVED
@@ -2429,11 +2429,11 @@ PersonID,Name,Age,Gender,Nationality,Joined,ClassDept,Type,Survived
 2428,"WOODMEY, Mr Robert",41,Male,Scottish,Belfast,Engineering Crew,Engineer,
 2429,"WOODS, Mr Hugh",31,Male,Irish,Belfast,Engineering Crew,Engineer,
 2430,"WOODWARD, Mr John Wesley",32,Male,English,Southampton,2nd Class Passenger Musician,Musician,LOST
-2431,"WOODY, Mr Oscar Scott",41,Male,American,Southampton,Victualling Crew Postal Clerk,Victualler,LOST
+2431,"WOODY, Mr Oscar Scott",41,Male,American,Southampton,Victualling Crew Postal Clerk,Postal Clerk,LOST
 2432,"WOOLNER, Mr Hugh",45,Male,English,Southampton,1st Class Passenger,1st Class,SAVED
 2433,"WORMALD, Mr Henry Frederick Charles",45,Male,English,Southampton,Victualling Crew,Victualler,LOST
 2434,"WORTHMAN, Mr William Henry",37,Male,English,Southampton,Engineering Crew,Engineer,LOST
-2435,"WOTTON, Mr Henry Swaffin",54,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,1st Class,
+2435,"WOTTON, Mr Henry Swaffin",54,Male,English,Southampton,1st Class Passenger Cross Channel Passenger,Cross Channel,
 2436,"WRAPSON, Mr Frederick Bernard",18,Male,English,Belfast,Victualling Crew,Victualler,LOST
 2437,"WRIGHT, Miss Marion",26,Female,English,Southampton,2nd Class Passenger,2nd Class,SAVED
 2438,"WRIGHT, Mr Frederick",24,Male,English,Southampton,Victualling Crew,Victualler,LOST

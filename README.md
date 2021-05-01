@@ -19,4 +19,7 @@ Check it out here: https://nataligracia.github.io/webdesign_titanic/
 # Survival by Person Type
 ![Alt text](WebVisualizations/Data & Images- Results/persontype_barh_plot.png?raw=true "Person Type")
 
+## Sources
+
+
 ## Thank you for checking out my GitHub!
